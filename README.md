@@ -5,6 +5,7 @@ Worte the code for UI in the current account, also assisted in the problem solvi
 Worte the code for UI in the savings account.
 ## AMCH SAMUEL - currentaccount.py;
 Wrote the parent code for current account engine (UI)
-## CHIMEMIEZE OBIJURU - home.py
+## CHIMEMIEZE OBIJURU - savingsaccount.py;
 Wrote the parent code for savings account engine (UI)
-## OGENETEGA JOHNNY - 
+## OGENETEGA JOHNNY - home.py;
+Built the user interface using streamlit functions.
