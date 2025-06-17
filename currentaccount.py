@@ -8,7 +8,7 @@ class currentAccount(Account):
         if amount < 0:
             raise ValueError("Amount cannot be negative")
         if amount > self.balance:
-            raise ValueError("Insufficient Funds")
+            raise ValueError("INSUFFICIENT FUNDS")
         self.balance -= amount
 
     def deposit(self, amount):
